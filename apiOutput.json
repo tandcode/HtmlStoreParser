@@ -1,0 +1,1285 @@
+[ {
+  "id" : 5126887,
+  "productName" : "Shirt 'Enoa'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "navy"
+  }, {
+    "name" : "dunkelgrün"
+  }, {
+    "name" : "weiß"
+  }, {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 49.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5705664,
+  "productName" : "Shirt",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "navy"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4299563,
+  "productName" : "Shirt 'Lock Up'",
+  "brandName" : "ADIDAS ORIGINALS",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3673399,
+  "productName" : "Hemd",
+  "brandName" : "TOMMY HILFIGER",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 59.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4789921,
+  "productName" : "Jeans 'Ansgar'",
+  "brandName" : "DAN FOX APPAREL",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 79.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5023434,
+  "productName" : "Hose 'MARCO STUART'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 52.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5084443,
+  "productName" : "Shirt",
+  "brandName" : "TOMMY HILFIGER",
+  "colors" : [ {
+    "name" : "dunkelblau"
+  } ],
+  "price" : {
+    "value" : 26.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5005716,
+  "productName" : "Jeans 'ONSLOOM'",
+  "brandName" : "Only & Sons",
+  "colors" : [ {
+    "name" : "grey denim"
+  } ],
+  "price" : {
+    "value" : 34.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5584387,
+  "productName" : "Jeans 'LOOM BLUE JOG PK 8472 NOOS'",
+  "brandName" : "Only & Sons",
+  "colors" : [ {
+    "name" : "blue denim"
+  } ],
+  "price" : {
+    "value" : 27.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5042669,
+  "productName" : "Sweatshirt",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "rot"
+  }, {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 54.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4341386,
+  "productName" : "Trunks 'JACHUEY'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 34.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3833268,
+  "productName" : "Poloshirt 'SHHNEWSEASON SS NOOS'",
+  "brandName" : "SELECTED HOMME",
+  "colors" : [ {
+    "name" : "navy"
+  } ],
+  "price" : {
+    "value" : 19.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4086666,
+  "productName" : "Hose 'MARCO'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 39.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6901747,
+  "productName" : "Boxershorts",
+  "brandName" : "Calvin Klein Underwear",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "mischfarben"
+  } ],
+  "price" : {
+    "value" : 84.95,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5188786,
+  "productName" : "Hemd",
+  "brandName" : "ESPRIT",
+  "colors" : [ {
+    "name" : "navy"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5704548,
+  "productName" : "Sportshorts",
+  "brandName" : "ADIDAS PERFORMANCE",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5218318,
+  "productName" : "Shirt  'SS RELAXED FIT'",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 24.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5216485,
+  "productName" : "Shorts",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "blue denim"
+  } ],
+  "price" : {
+    "value" : 49.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6580036,
+  "productName" : "Shorts 'Mark'",
+  "brandName" : "Only & Sons",
+  "colors" : [ {
+    "name" : "oliv"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4027171,
+  "productName" : "Cargohose",
+  "brandName" : "Urban Classics",
+  "colors" : [ {
+    "name" : "dunkelgrau"
+  } ],
+  "price" : {
+    "value" : 34.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6720408,
+  "productName" : "T-Shirt 'Adicolor'",
+  "brandName" : "ADIDAS ORIGINALS",
+  "colors" : [ {
+    "name" : "weiß"
+  }, {
+    "name" : "hellblau"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4283644,
+  "productName" : "T-Shirt",
+  "brandName" : "Urban Classics",
+  "colors" : [ {
+    "name" : "navy"
+  }, {
+    "name" : "rot"
+  }, {
+    "name" : "grün"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 27.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3923174,
+  "productName" : "Hemd 'SHERIDAN'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "black denim"
+  } ],
+  "price" : {
+    "value" : 39.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6869714,
+  "productName" : "Anzug",
+  "brandName" : "CINQUE",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 349.00,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4522054,
+  "productName" : "Jeans '511'",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "blue denim"
+  } ],
+  "price" : {
+    "value" : 94.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4778398,
+  "productName" : "Piquee-Polo mit Wasch-Effekt und Artworks",
+  "brandName" : "CAMP DAVID",
+  "colors" : [ {
+    "name" : "dunkelblau"
+  } ],
+  "price" : {
+    "value" : 47.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4303547,
+  "productName" : "Shirt",
+  "brandName" : "ELLESSE",
+  "colors" : [ {
+    "name" : "dunkelgrau"
+  }, {
+    "name" : "rot"
+  }, {
+    "name" : "orange"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 24.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3959019,
+  "productName" : "Hose 'Paul Flake'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 59.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6859726,
+  "productName" : "Jogginganzug",
+  "brandName" : "Nike Sportswear",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 94.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3887297,
+  "productName" : "T-Shirt 'F*ck The World'",
+  "brandName" : "Mister Tee",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 23.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5039612,
+  "productName" : "T-Shirt 'A Burger'",
+  "brandName" : "Mister Tee",
+  "colors" : [ {
+    "name" : "senf"
+  }, {
+    "name" : "hellbeige"
+  }, {
+    "name" : "dunkelbraun"
+  }, {
+    "name" : "schwarz"
+  }, {
+    "name" : "hellgrün"
+  } ],
+  "price" : {
+    "value" : 19.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5008659,
+  "productName" : "Sweatjacke",
+  "brandName" : "Superdry",
+  "colors" : [ {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 59.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4107709,
+  "productName" : "Jeans 'Tim'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "blue denim"
+  } ],
+  "price" : {
+    "value" : 49.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6656797,
+  "productName" : "Sportanzug 'JUVE TK'",
+  "brandName" : "ADIDAS PERFORMANCE",
+  "colors" : [ {
+    "name" : "weiß"
+  }, {
+    "name" : "schwarz"
+  }, {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 109.00,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5685513,
+  "productName" : "T-Shirt",
+  "brandName" : "Iriedaily",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 23.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6546069,
+  "productName" : "Jeans 'Rafael'",
+  "brandName" : "DAN FOX APPAREL",
+  "colors" : [ {
+    "name" : "offwhite"
+  } ],
+  "price" : {
+    "value" : 54.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4561458,
+  "productName" : "Chinohose 'SLIM TAPER CHINO II'",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "navy"
+  } ],
+  "price" : {
+    "value" : 59.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6545178,
+  "productName" : "Hemd 'JPRBLASUMMER''",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "navy"
+  } ],
+  "price" : {
+    "value" : 39.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3431043,
+  "productName" : "T-Shirt",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "rot"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 24.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3988871,
+  "productName" : "Jacke 'Mont 2'",
+  "brandName" : "ELLESSE",
+  "colors" : [ {
+    "name" : "navy"
+  }, {
+    "name" : "hellrot"
+  }, {
+    "name" : "orange"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 79.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3424334,
+  "productName" : "Boxershorts 'LICHFIELD'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "grey denim"
+  }, {
+    "name" : "navy"
+  }, {
+    "name" : "burgunder"
+  }, {
+    "name" : "orange"
+  } ],
+  "price" : {
+    "value" : 24.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6863159,
+  "productName" : "Hemd 'SPUKY'",
+  "brandName" : "CINQUE",
+  "colors" : [ {
+    "name" : "camel"
+  }, {
+    "name" : "violettblau"
+  }, {
+    "name" : "karamell"
+  }, {
+    "name" : "mauve"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 79.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4717831,
+  "productName" : "T-Shirt 'Bye Bye'",
+  "brandName" : "Iriedaily",
+  "colors" : [ {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 27.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6920111,
+  "productName" : "Poloshirt  'Donos'",
+  "brandName" : "HUGO",
+  "colors" : [ {
+    "name" : "grün"
+  }, {
+    "name" : "gelb"
+  } ],
+  "price" : {
+    "value" : 69.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5018428,
+  "productName" : "Jeans 'Josh'",
+  "brandName" : "TOM TAILOR",
+  "colors" : [ {
+    "name" : "dunkelblau"
+  } ],
+  "price" : {
+    "value" : 52.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5700666,
+  "productName" : "Shirt",
+  "brandName" : "LACOSTE",
+  "colors" : [ {
+    "name" : "oliv"
+  }, {
+    "name" : "dunkelblau"
+  }, {
+    "name" : "weiß"
+  }, {
+    "name" : "dunkelgelb"
+  } ],
+  "price" : {
+    "value" : 89.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5152678,
+  "productName" : "Boxershorts 'James'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "navy"
+  }, {
+    "name" : "blaumeliert"
+  }, {
+    "name" : "nachtblau"
+  } ],
+  "price" : {
+    "value" : 19.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5588461,
+  "productName" : "Shirt 'Tyler'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "navy"
+  }, {
+    "name" : "blau"
+  }, {
+    "name" : "orange"
+  }, {
+    "name" : "dunkelorange"
+  }, {
+    "name" : "rotviolett"
+  } ],
+  "price" : {
+    "value" : 12.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6717759,
+  "productName" : "Shirt 'Lino'",
+  "brandName" : "DAN FOX APPAREL",
+  "colors" : [ {
+    "name" : "kitt"
+  } ],
+  "price" : {
+    "value" : 39.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5896301,
+  "productName" : "Jeans 'WILLBI'",
+  "brandName" : "REPLAY",
+  "colors" : [ {
+    "name" : "blau"
+  } ],
+  "price" : {
+    "value" : 125.00,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5582829,
+  "productName" : "Sweatshirt",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 21.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3809233,
+  "productName" : "T-Shirt",
+  "brandName" : "GANT",
+  "colors" : [ {
+    "name" : "rot"
+  }, {
+    "name" : "blau"
+  }, {
+    "name" : "schwarz"
+  }, {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3463955,
+  "productName" : "T-Shirt 'BORO'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 11.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6730892,
+  "productName" : "Shorts",
+  "brandName" : "Nike Sportswear",
+  "colors" : [ {
+    "name" : "rot"
+  }, {
+    "name" : "weiß"
+  }, {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 54.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3886760,
+  "productName" : "T-Shirt 'Flamingo'",
+  "brandName" : "Mister Tee",
+  "colors" : [ {
+    "name" : "hellgelb"
+  }, {
+    "name" : "weiß"
+  }, {
+    "name" : "hellgrün"
+  }, {
+    "name" : "hellpink"
+  } ],
+  "price" : {
+    "value" : 19.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6857237,
+  "productName" : "T-Shirt",
+  "brandName" : "POLO RALPH LAUREN",
+  "colors" : [ {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 69.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6715549,
+  "productName" : "Sweatjacke 'Beckenbauer'",
+  "brandName" : "ADIDAS ORIGINALS",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 69.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5718317,
+  "productName" : "T-Shirt",
+  "brandName" : "LACOSTE",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "hellgrün"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 49.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6915071,
+  "productName" : "Hose",
+  "brandName" : "Nike Sportswear",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 59.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4587908,
+  "productName" : "Trunks",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "dunkelgrau"
+  }, {
+    "name" : "navy"
+  }, {
+    "name" : "blau"
+  } ],
+  "price" : {
+    "value" : 24.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5727828,
+  "productName" : "Sweatshirt",
+  "brandName" : "ADIDAS ORIGINALS",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 49.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3797035,
+  "productName" : "Boxershorts 'SENSE'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "weiß"
+  }, {
+    "name" : "schwarz"
+  }, {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 24.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4957491,
+  "productName" : "Jeans 'JJITIM JJORIGINAL JOS 119 NOOS'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "blue denim"
+  } ],
+  "price" : {
+    "value" : 59.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6871058,
+  "productName" : "Jacke",
+  "brandName" : "DIESEL",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 949.00,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5000594,
+  "productName" : "Hose 'MARK'",
+  "brandName" : "Only & Sons",
+  "colors" : [ {
+    "name" : "weiß"
+  }, {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 34.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4208225,
+  "productName" : "Poloshirt 'SSKCSLM1-SHORT SLEEVE-KNIT'",
+  "brandName" : "POLO RALPH LAUREN",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 99.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4119163,
+  "productName" : "Jeans 'Josh'",
+  "brandName" : "TOM TAILOR",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 44.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6856362,
+  "productName" : "Hemd",
+  "brandName" : "POLO RALPH LAUREN",
+  "colors" : [ {
+    "name" : "marine"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 109.00,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5186665,
+  "productName" : "Hemd 'EGINGHAM'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "rostrot"
+  } ],
+  "price" : {
+    "value" : 24.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 606896,
+  "productName" : "Trunks",
+  "brandName" : "Calvin Klein Underwear",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  }, {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 39.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6856069,
+  "productName" : "Jeans 'LOOM'",
+  "brandName" : "Only & Sons",
+  "colors" : [ {
+    "name" : "blue denim"
+  } ],
+  "price" : {
+    "value" : 49.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5738465,
+  "productName" : "Sportshorts",
+  "brandName" : "ADIDAS PERFORMANCE",
+  "colors" : [ {
+    "name" : "dunkelgrau"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6860938,
+  "productName" : "Shirt",
+  "brandName" : "TOMMY HILFIGER",
+  "colors" : [ {
+    "name" : "blau"
+  } ],
+  "price" : {
+    "value" : 29.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4463345,
+  "productName" : "Hose 'MARK'",
+  "brandName" : "Only & Sons",
+  "colors" : [ {
+    "name" : "dunkelgrau"
+  } ],
+  "price" : {
+    "value" : 39.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4373414,
+  "productName" : "Boxershorts 'Oliver'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "mischfarben"
+  } ],
+  "price" : {
+    "value" : 34.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5866483,
+  "productName" : "T-Shirt",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "dunkelblau"
+  }, {
+    "name" : "schwarz"
+  }, {
+    "name" : "offwhite"
+  } ],
+  "price" : {
+    "value" : 21.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3888522,
+  "productName" : "T-Shirt 'F#?KIT'",
+  "brandName" : "Mister Tee",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 15.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5201733,
+  "productName" : "Hose",
+  "brandName" : "Only & Sons",
+  "colors" : [ {
+    "name" : "blau"
+  } ],
+  "price" : {
+    "value" : 21.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4880816,
+  "productName" : "Jeans",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "grey denim"
+  } ],
+  "price" : {
+    "value" : 105.00,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4286044,
+  "productName" : "Shirt 'ORIGHMVNECK'",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 19.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 2223465,
+  "productName" : "Poloshirt - Classic Fit",
+  "brandName" : "LACOSTE",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 94.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5209802,
+  "productName" : "Shirt",
+  "brandName" : "ADIDAS ORIGINALS",
+  "colors" : [ {
+    "name" : "weiß"
+  }, {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 35.00,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3947842,
+  "productName" : "Hoodie 'ECORP'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "navy"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 20.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4826567,
+  "productName" : "Shirt 'Basic T Foil Print'",
+  "brandName" : "ALPHA INDUSTRIES",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "gold"
+  } ],
+  "price" : {
+    "value" : 22.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6815103,
+  "productName" : "T-Shirt",
+  "brandName" : "Lindbergh",
+  "colors" : [ {
+    "name" : "weiß"
+  }, {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 19.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 5618140,
+  "productName" : "Shirt 'God Given Pizza'",
+  "brandName" : "Mister Tee",
+  "colors" : [ {
+    "name" : "orange"
+  }, {
+    "name" : "schwarz"
+  }, {
+    "name" : "grau"
+  } ],
+  "price" : {
+    "value" : 24.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6902929,
+  "productName" : "Sweatshirt",
+  "brandName" : "Nike Sportswear",
+  "colors" : [ {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 74.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4088963,
+  "productName" : "Hose 'Marco Bowie'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "nachtblau"
+  } ],
+  "price" : {
+    "value" : 39.99,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6771639,
+  "productName" : "Sweatshirt",
+  "brandName" : "Abercrombie & Fitch",
+  "colors" : [ {
+    "name" : "jade"
+  }, {
+    "name" : "orange"
+  }, {
+    "name" : "blau"
+  }, {
+    "name" : "weiß"
+  }, {
+    "name" : "graumeliert"
+  } ],
+  "price" : {
+    "value" : 74.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4135215,
+  "productName" : "Sakko 'Simon'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "taubenblau"
+  } ],
+  "price" : {
+    "value" : 69.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6866571,
+  "productName" : "Poloshirt",
+  "brandName" : "LEVI'S",
+  "colors" : [ {
+    "name" : "feuerrot"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 39.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4797042,
+  "productName" : "Chinoshorts 'Phil'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 27.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 3641982,
+  "productName" : "Hemd 'SHDONENEW-MARK'",
+  "brandName" : "SELECTED HOMME",
+  "colors" : [ {
+    "name" : "navy"
+  } ],
+  "price" : {
+    "value" : 39.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4214176,
+  "productName" : "Jeans 'Jet Slim Taperd Multiflex'",
+  "brandName" : "BLEND",
+  "colors" : [ {
+    "name" : "blue denim"
+  } ],
+  "price" : {
+    "value" : 47.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6696777,
+  "productName" : "Sweatshirt",
+  "brandName" : "TOMMY HILFIGER",
+  "colors" : [ {
+    "name" : "camel"
+  }, {
+    "name" : "navy"
+  }, {
+    "name" : "weiß"
+  }, {
+    "name" : "schwarz"
+  }, {
+    "name" : "petrol"
+  } ],
+  "price" : {
+    "value" : 119.00,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6713363,
+  "productName" : "Shorts 'Tino'",
+  "brandName" : "DAN FOX APPAREL",
+  "colors" : [ {
+    "name" : "hellgrau"
+  } ],
+  "price" : {
+    "value" : 44.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6545763,
+  "productName" : "Shirt 'Luke'",
+  "brandName" : "DAN FOX APPAREL",
+  "colors" : [ {
+    "name" : "blau"
+  } ],
+  "price" : {
+    "value" : 39.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 6545514,
+  "productName" : "Jacke 'Neo'",
+  "brandName" : "DAN FOX APPAREL",
+  "colors" : [ {
+    "name" : "beige"
+  } ],
+  "price" : {
+    "value" : 79.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4875443,
+  "productName" : "Sweatshirt 'Brandon'",
+  "brandName" : "DIESEL",
+  "colors" : [ {
+    "name" : "rot"
+  }, {
+    "name" : "schwarz"
+  }, {
+    "name" : "weiß"
+  } ],
+  "price" : {
+    "value" : 79.90,
+    "currencyCode" : "EUR"
+  }
+}, {
+  "id" : 4966738,
+  "productName" : "Pullover 'Graham'",
+  "brandName" : "JACK & JONES",
+  "colors" : [ {
+    "name" : "oliv"
+  }, {
+    "name" : "schwarz"
+  } ],
+  "price" : {
+    "value" : 27.90,
+    "currencyCode" : "EUR"
+  }
+} ]
