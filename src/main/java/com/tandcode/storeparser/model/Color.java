@@ -1,4 +1,4 @@
-package model;
+package com.tandcode.storeparser.model;
 
 import lombok.Builder;
 import lombok.Data;

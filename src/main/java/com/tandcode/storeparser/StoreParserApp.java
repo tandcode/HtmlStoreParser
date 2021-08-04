@@ -1,25 +1,24 @@
+package com.tandcode.storeparser;
+
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import model.Color;
-import model.Price;
-import model.Product;
+import com.tandcode.storeparser.model.Color;
+import com.tandcode.storeparser.model.Price;
+import com.tandcode.storeparser.model.Product;
+import lombok.NonNull;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.net.InetSocketAddress;
 import java.net.Proxy;
-import java.net.URISyntaxException;
 import java.net.URL;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;
@@ -40,7 +39,10 @@ public class StoreParserApp {
     }
 
     private static void parseHtmlProducts() {
+        log("Starting html parsing program in: %s", LocalTime.now().format(DateTimeFormatter.ISO_LOCAL_TIME));
+        log("It could take 3 minutes");
         requestCounter = 0;
+
         Document doc = tryToConnect(PROPS.getProperty("html.url"), 5, false);
 
         Elements productTiles = doc.select("[data-test-id=ProductTile]");
@@ -55,15 +57,17 @@ public class StoreParserApp {
 
         writeObjectToJsonFile(products, PROPS.getProperty("html.output.filename") + ".json");
         resultLog(products);
+        log("Html parsing ended in: %s", LocalTime.now().format(DateTimeFormatter.ISO_LOCAL_TIME));
     }
 
     private static void parseApiProducts() {
+        log("Starting a API parsing program in: %s", LocalTime.now().format(DateTimeFormatter.ISO_LOCAL_TIME));
         requestCounter = 0;
         System.setProperty("http.agent", PROPS.getProperty("api.http.agent")); //mocking browser
 
         JsonNode response = null;
         try {
-            response = MAPPER.readTree(new URL(PROPS.getProperty("api.url")));
+            response = Objects.requireNonNull(MAPPER.readTree(new URL(PROPS.getProperty("api.url"))));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -80,7 +84,6 @@ public class StoreParserApp {
                         .name(color.get("label").textValue())
                         .build());
             });
-            String t = product.get("id").asText();
             products.add(
                     Product.builder()
                             .id(Long.parseLong(product.get("id").asText()))
@@ -98,6 +101,7 @@ public class StoreParserApp {
 
         writeObjectToJsonFile(products, PROPS.getProperty("api.output.filename") + ".json");
         resultLog(products);
+        log("API parsing ended in: %s", LocalTime.now().format(DateTimeFormatter.ISO_LOCAL_TIME));
     }
 
     private static void resultLog(List<Product> products) {
@@ -107,8 +111,7 @@ public class StoreParserApp {
 
 
     private static void initProps() {
-        String path = Thread.currentThread().getContextClassLoader().getResource("").getPath();
-        try (InputStream input = new FileInputStream(path + "app.properties")) {
+        try (InputStream input = StoreParserApp.class.getResourceAsStream("/app.properties")) {
             PROPS.load(input);
         } catch (IOException ex) {
             ex.printStackTrace();
@@ -116,18 +119,16 @@ public class StoreParserApp {
     }
 
     private static void initProxies() {
-        String resourceName = "http_proxies.txt";
-        try (Stream<String> lines = Files.lines(Paths.get(Thread.currentThread().getContextClassLoader().getResource(resourceName).toURI()))) {
+        Stream<String> lines =  new BufferedReader(new InputStreamReader(Objects.requireNonNull(
+                StoreParserApp.class.getResourceAsStream("/http_proxies.txt")))).lines();
             PROXIES.addAll(lines
                     .map(line -> new InetSocketAddress(line.replaceAll(":.*", ""),
                             Integer.parseInt(line.replaceAll(".*:", ""))))
                     .collect(Collectors.toList()));
-        } catch (IOException | URISyntaxException e) {
-            e.printStackTrace();
-        }
+
     }
 
-    public static Document tryToConnect(String url, int times, boolean useProxy) {
+    public static Document tryToConnect(@NonNull String url, int times, boolean useProxy) {
         Document doc = null;
 
         Proxy proxy = useProxy ? new Proxy(Proxy.Type.HTTP,
@@ -162,8 +163,8 @@ public class StoreParserApp {
 
     public static Product parseHtmlProduct(Element productTile) {
         String productUrl = productTile.absUrl("href");
-        Element productDesc = tryToConnect(productUrl, 5, false)
-                        .selectFirst("[data-test-id=BuyBox]");
+        Element productDesc = Objects.requireNonNull(tryToConnect(productUrl, 5, false)
+                .selectFirst("[data-test-id=BuyBox]"));
 
         String fullPrice = productDesc.select("[data-test-id~=ProductPriceFormattedBasePrice|FormattedSalePrice]").text();
         String priceCurrencyCode = fullPrice.replaceAll(".*\\d*[,.]\\d* ", "");
